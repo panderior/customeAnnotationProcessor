@@ -1,8 +1,7 @@
 package customeannotation;
 
 import com.google.auto.service.AutoService;
-import customeannotation.annotations.SimLog;
-import customeannotation.annotations.Simulator;
+import com.example.application.annotations.SimLog;
 
 import javax.annotation.processing.*;
 import javax.lang.model.SourceVersion;
@@ -30,7 +29,7 @@ public class AnnotationProcessor extends AbstractProcessor
     {
         Set<String> annotation_classes = Collections.emptySet();
         annotation_classes.add(SimLog.class.getCanonicalName());
-        annotation_classes.add(Simulator.class.getCanonicalName());
+//        annotation_classes.add(Model.class.getCanonicalName());
         return annotation_classes;
     }
 

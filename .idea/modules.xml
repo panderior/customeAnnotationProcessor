@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/customeAnnotation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/customeAnnotation.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processer/customeAnnotation.processer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/processer/customeAnnotation.processer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimRealLibrary.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimRealLibrary.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processer/SimRealLibrary.processer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/processer/SimRealLibrary.processer.main.iml" />
     </modules>
   </component>
 </project>
